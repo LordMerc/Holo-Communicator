@@ -15,3 +15,5 @@ rojo serve
 ```
 
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
+Place repo: https://www.roblox.com/games/8232173110/TJO-Holo-System
+The original table meshes have been archived due to me not owning their IP in respect to TJO.
